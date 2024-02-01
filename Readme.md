@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Варвара Новокрещёнова](https://up.htmlacademy.ru/htmlcss/39/user/2377051).
-* Наставник: [Ольга Ветер] (https://htmlacademy.ru/profile/id73199).
+* Наставник: [Ольга Ветер](https://htmlacademy.ru/profile/id73199).
 
 -.
 
